@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+    font-size: 3em;
+    text-align: center;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    width: 30%;
+    margin: auto;
+}
+
+span{
+    color: red;
+}
+
+p{
+    font-size: 20px;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    line-height: 30px;
+}
