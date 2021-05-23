@@ -1,0 +1,43 @@
+.heading{
+    text-align: center;
+    border-top: 4px solid orange;
+    border-bottom: 4px solid orange;
+    padding: 10px;
+    width: 50%;
+    margin: auto;
+}
+.section{
+    width: 450px;
+    height: 620px;
+    border: 1px solid rgb(204, 204, 204);
+    color: rgb(26, 26, 26);
+    font-family: sans-serif;
+    text-align: justify;
+    line-height: 25px;
+    float: left;
+    overflow: hidden;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.button{
+    text-decoration: none;
+    border: 2px solid orange ;
+    color: white;
+    background-color: orange;
+    padding: 13px;
+    margin: 15px;
+}
+.button:hover{
+    background-color: white;
+    color: orange;
+}
+
+p{
+    margin: 15px;
+}
+
+img{
+    height: 300px;
+    width: 450;
+}
