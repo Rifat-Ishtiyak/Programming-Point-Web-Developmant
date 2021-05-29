@@ -1,0 +1,85 @@
+body{
+    background-image: url(img/1.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.product img{
+    height: 400px;
+    width: 600px;
+    margin-top: 160px;
+    margin-left: 700px;
+    transform: rotate(90deg);
+    box-shadow: 0px 0px 40px black;
+    float: right;
+    overflow: hidden;
+}
+
+.text1{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 62pt;
+    font-weight: bold;
+    float: left;
+    overflow: hidden;
+    margin-left: 90px;
+    margin-top: -500px;
+}
+
+.inner-text{
+    color:rgb(173, 173, 173);
+    font-size: 12pt;
+    font-weight: normal;
+    line-height: 1.6;
+    margin-top: -60px;
+    margin-bottom: -32px;
+}
+
+.button a{
+    color: white;
+    background-color: #ff3d00;
+    text-decoration: none;
+    font-size: 12pt;
+    font-weight: bold;
+    padding: 12px 25px;
+    border-radius: 35px;
+}
+
+.button a:hover{
+    color: #ff3d00;
+    background-color: white;
+    
+}
+
+.header a{
+    color: white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14pt;
+    padding: 0px 30px;
+    float: right;
+    overflow: hidden;
+}
+
+.header{
+    margin-top: -55px;
+    margin-left: 890px;
+    margin-right: 70px;
+    float: right;
+    overflow: hidden
+}
+
+.header a:hover{
+    color: #ff3d00;
+}
+
+.logo img{
+    margin-top: 20px;
+    margin-left: 90px;
+    width: 140px;
+    height: 70px;
+    float: left;
+    overflow: hidden;
+}
