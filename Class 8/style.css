@@ -1,0 +1,25 @@
+span{
+    font-size: 65px;
+}
+
+.left{
+    float: left;
+    overflow: hidden;
+    margin-right: 30px;
+}
+
+.right{
+    float: right;
+    overflow: hidden;
+    margin-right: 30px;
+}
+
+.middle{
+    float: left;
+    overflow: hidden;
+    font-family: poppins;
+    margin-left: 95px;
+    margin-top: 300px;
+    color: #ff3d00;
+    font-weight: bold;
+}
