@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+
+.menu{
+    background-color: #004EA2;
+
+}
+
+.menu::after{
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.menu ul{
+    margin: 0px;
+}
+
+.menu ul li{
+    list-style: none;
+    float: left;
+    margin: 0px;
+    padding: 10px 25px;
+    
+}
+
+.menu ul li:hover{
+    background-color: #224077;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    font-size: 18pt;
+    font-family: lato,sans-serif;
+    color: white;
+    margin: 0px;
+}

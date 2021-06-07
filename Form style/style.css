@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    height: fit-content;
+    max-width: 300px;
+    font-size: 16pt;
+    font-family: sans-serif;
+    margin: 150px auto;
+    padding: 50px 70px;
+}
+
+input{
+    color: orangered;
+    outline: 0;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 5px 4px;
+    margin-bottom: 18px;
+    margin-top: px;
+    font-size: 14pt;
+    border: none;
+    border-bottom: 2px solid black;
+}
+
+input::placeholder{
+    opacity: 0.3;
+    
+}
+
+input:focus{
+    border-color: green;
+}
+
+button{
+    width: 100%;
+    background-color: orangered;
+    height: 40px;
+    border-style: none;
+}
+
+button a{
+    text-decoration: none;
+    color: white;
+    font-size: 14pt;
+    font-weight: 200;
+}
+
+button:hover{
+    background-color: black;
+}
+
+button a:hover{
+    color: white;
+}
