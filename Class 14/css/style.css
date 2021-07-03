@@ -1,0 +1,10 @@
+.box{
+    width: 25%;
+    background-color: blue;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: white;
+    font-size: 22pt;
+    padding: 40px 40px;
+    margin: 50px auto;
+}
