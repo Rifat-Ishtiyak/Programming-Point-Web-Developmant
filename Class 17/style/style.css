@@ -1,0 +1,38 @@
+.heading{
+    color: red;
+    font-family: sans-serif;
+    text-decoration: overline;
+}
+
+.box1{
+    color: white;
+    font-weight: bold;
+    font-size: 22pt;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(126, 119, 119);
+    margin-bottom: 0px;
+}
+
+.box2{
+    display: none;
+    width: 800px;
+    color: white;
+    background-color: green;
+    padding: 10px 80px;
+    margin: auto;
+}
+
+.box2 p{
+    text-align: center;
+    margin-top: 0px;
+}
+.slider{
+    width: 50%;
+    margin: auto;
+}
+
+
+img{
+    height: 400px;
+}
